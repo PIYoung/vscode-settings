@@ -1,2 +1,3 @@
 # vscode-setting
-My VSCode Settings
+
+💡 My personal vs-code settings
